@@ -20,6 +20,12 @@ public class TestSwitch2 {
 			System.out.println("You are a very pure person.");
 
 			System.out.println("You are a very pure person.");
+			
+			
+
+			System.out.println("You are a very pure person.");
+
+			System.out.println("You are a very pure person.");
 		}
 		
 		else if (input.equalsIgnoreCase("red")){
