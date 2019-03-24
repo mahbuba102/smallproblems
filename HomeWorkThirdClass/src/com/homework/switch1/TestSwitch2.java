@@ -14,6 +14,12 @@ public class TestSwitch2 {
 		}
 		else if (input.equalsIgnoreCase("white")){
 			System.out.println("You are a very pure person.");
+
+			System.out.println("You are a very pure person.");
+
+			System.out.println("You are a very pure person.");
+
+			System.out.println("You are a very pure person.");
 		}
 		
 		else if (input.equalsIgnoreCase("red")){
